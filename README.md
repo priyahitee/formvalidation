@@ -1,6 +1,11 @@
 # formvalidation
-Form validation on Client Server Side with javascript 
+
+Created a simple login page with frontend validation by using javascript.
+
+Preview: 
 https://priyahitee.github.io/formvalidation/
 
 Technologies Used:
-HTML, CSS and frontend validation through javascript
+* HTML
+* CSS 
+* javascript
